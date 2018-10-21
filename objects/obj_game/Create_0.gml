@@ -19,3 +19,6 @@ text = "";
 text_pos = 0;
 text_delay = 5;
 text_alpha = 1;
+
+//	Sound play
+audio_play_sound(bgm_breath, 0, true);

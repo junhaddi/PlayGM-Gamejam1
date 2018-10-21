@@ -6,6 +6,7 @@ chr_vspeed = 0;
 room_iid = 0;
 
 //	State
+isMove = false;
 item_list = ds_list_create();
 isRader = false;
 isDanger = false;

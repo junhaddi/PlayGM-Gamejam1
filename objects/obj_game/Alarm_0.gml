@@ -16,5 +16,5 @@ if (text_pos < string_length(text)) {
     }
 }
 else {
-	alarm[1] = room_speed * 2;
+	alarm[1] = room_speed * 1.5;
 }

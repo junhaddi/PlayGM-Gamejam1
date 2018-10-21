@@ -1,0 +1,2 @@
+text = "...";
+isTrap = false;

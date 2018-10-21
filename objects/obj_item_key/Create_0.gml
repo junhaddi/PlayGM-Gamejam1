@@ -1,3 +1,3 @@
 event_inherited();
-text = "황금 열쇠는 우대권";
+text = "24K 황금키";
 ins_item = "key";

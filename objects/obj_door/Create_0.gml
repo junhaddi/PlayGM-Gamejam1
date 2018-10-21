@@ -1,2 +1,3 @@
 //	Default val
-isLock = true;
+isLock = false;
+callKey = 1;

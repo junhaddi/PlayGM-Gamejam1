@@ -1,0 +1,1 @@
+draw_sprite(spr_logo, 0, global.game_width / 2, global.game_height / 2);

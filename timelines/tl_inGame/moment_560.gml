@@ -1,0 +1,1 @@
+obj_chr.isMove = true;

@@ -9,7 +9,7 @@ with (Light) {
 	//	Character
 	alarm[2] = 1;
 }
+obj_chr.isMove = true;
 
 //	Sound Play
 audio_play_sound(sfx_switch, 0, false);
-audio_play_sound(bgm_breath, 0, true);
